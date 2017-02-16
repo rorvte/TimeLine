@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B6AE4066733AD107DB9E77035950B86B9925B9D5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "19F1E0065E899B22FD63361413622E72C0CED6BE" : 9223372036854775807,
+    "B6AE4066733AD107DB9E77035950B86B9925B9D5" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "700BD33E-3923-40D4-920E-801D566D34C5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "19F1E0065E899B22FD63361413622E72C0CED6BE" : "..\/Developer\/MVVM",
+    "B6AE4066733AD107DB9E77035950B86B9925B9D5" : "iOS%20demos\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MyTimeline",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MyTimeline\/MyTimeline.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/shenAlexy\/MVVM.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "19F1E0065E899B22FD63361413622E72C0CED6BE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rorvte\/iOS-demos.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B6AE4066733AD107DB9E77035950B86B9925B9D5"
+    }
+  ]
+}
